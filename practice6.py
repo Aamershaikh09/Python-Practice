@@ -27,7 +27,8 @@ print(set1.union(set2))
 print(set1.intersection(set2))
 print(set1)
 
-#Store values in dic 
+
+#Store values in dictionar
 
 dict1={
     "table":["a piece of furniture",

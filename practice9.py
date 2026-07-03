@@ -1,0 +1,5 @@
+f=open("C:/Users/Aamer_PC/OneDrive/Desktop/Data Analytics/Python-Practice/sample.txt","r")
+data=f.read(5)
+print(data)
+print(type(data))
+f.close()
